@@ -1,0 +1,7 @@
+public class testeJava{
+
+public static void mais (Strings [] args){
+
+
+}
+}
