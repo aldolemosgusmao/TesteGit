@@ -1,7 +1,7 @@
 public class testeJava{
 
 public static void mais (Strings [] args){
-
+  System.out.println("Olá mundo!);
 
 }
 }
